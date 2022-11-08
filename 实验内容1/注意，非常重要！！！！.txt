@@ -1,0 +1,11 @@
+OpenGauss 安装视频
+https://education.huaweicloud.com/courses/course-v1:HuaweiX+CBUCNXK034+Self-paced/courseware/0bac3ec82b674cdbb0bfcd4883dad85a/57ce1146d1f7435cb4ba54bad8bdab4c/
+
+大家先学一下安装，再动手安装OpenGauss。可以选极简安装，安装要简单一些。
+
+
+
+请大家在每次实验后，一定要切记关实例，服务器关机。
+云数据库实验，每次都最好直接完成实验，如果没有完成，保存好数据，删除实例，第二次再创建实例。
+
+否则，代金券会每时每刻都扣费，很快就扣完了。

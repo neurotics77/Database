@@ -1,0 +1,10 @@
+create database test;
+use test;
+create table t1;
+id int
+name char(100)
+;
+exit
+;
+exit
+;

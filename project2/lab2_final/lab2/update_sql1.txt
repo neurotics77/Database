@@ -1,0 +1,10 @@
+update table t1;
+4
+name 522abcf
+update table t1;
+5
+name 522abcf
+update table t1;
+1
+name 522abcf
+exit;

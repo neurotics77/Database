@@ -1,0 +1,2001 @@
+delete from t1;
+110
+delete from t1;
+580
+delete from t1;
+727
+delete from t1;
+519
+delete from t1;
+684
+delete from t1;
+700
+delete from t1;
+736
+delete from t1;
+161
+delete from t1;
+620
+delete from t1;
+703
+delete from t1;
+973
+delete from t1;
+813
+delete from t1;
+863
+delete from t1;
+314
+delete from t1;
+379
+delete from t1;
+307
+delete from t1;
+866
+delete from t1;
+228
+delete from t1;
+110
+delete from t1;
+754
+delete from t1;
+713
+delete from t1;
+78
+delete from t1;
+360
+delete from t1;
+889
+delete from t1;
+394
+delete from t1;
+712
+delete from t1;
+151
+delete from t1;
+557
+delete from t1;
+949
+delete from t1;
+181
+delete from t1;
+958
+delete from t1;
+711
+delete from t1;
+554
+delete from t1;
+13
+delete from t1;
+264
+delete from t1;
+622
+delete from t1;
+655
+delete from t1;
+613
+delete from t1;
+331
+delete from t1;
+615
+delete from t1;
+859
+delete from t1;
+948
+delete from t1;
+345
+delete from t1;
+409
+delete from t1;
+250
+delete from t1;
+747
+delete from t1;
+734
+delete from t1;
+273
+delete from t1;
+876
+delete from t1;
+724
+delete from t1;
+950
+delete from t1;
+709
+delete from t1;
+80
+delete from t1;
+981
+delete from t1;
+58
+delete from t1;
+160
+delete from t1;
+7
+delete from t1;
+895
+delete from t1;
+195
+delete from t1;
+18
+delete from t1;
+754
+delete from t1;
+537
+delete from t1;
+548
+delete from t1;
+208
+delete from t1;
+258
+delete from t1;
+891
+delete from t1;
+31
+delete from t1;
+172
+delete from t1;
+955
+delete from t1;
+736
+delete from t1;
+29
+delete from t1;
+284
+delete from t1;
+790
+delete from t1;
+590
+delete from t1;
+968
+delete from t1;
+215
+delete from t1;
+88
+delete from t1;
+411
+delete from t1;
+669
+delete from t1;
+748
+delete from t1;
+698
+delete from t1;
+635
+delete from t1;
+832
+delete from t1;
+729
+delete from t1;
+272
+delete from t1;
+397
+delete from t1;
+44
+delete from t1;
+856
+delete from t1;
+877
+delete from t1;
+936
+delete from t1;
+871
+delete from t1;
+412
+delete from t1;
+799
+delete from t1;
+20
+delete from t1;
+338
+delete from t1;
+426
+delete from t1;
+448
+delete from t1;
+95
+delete from t1;
+766
+delete from t1;
+935
+delete from t1;
+295
+delete from t1;
+24
+delete from t1;
+994
+delete from t1;
+452
+delete from t1;
+120
+delete from t1;
+865
+delete from t1;
+768
+delete from t1;
+593
+delete from t1;
+420
+delete from t1;
+841
+delete from t1;
+226
+delete from t1;
+331
+delete from t1;
+784
+delete from t1;
+482
+delete from t1;
+449
+delete from t1;
+878
+delete from t1;
+303
+delete from t1;
+164
+delete from t1;
+862
+delete from t1;
+365
+delete from t1;
+234
+delete from t1;
+110
+delete from t1;
+969
+delete from t1;
+298
+delete from t1;
+729
+delete from t1;
+297
+delete from t1;
+545
+delete from t1;
+501
+delete from t1;
+337
+delete from t1;
+879
+delete from t1;
+832
+delete from t1;
+738
+delete from t1;
+70
+delete from t1;
+629
+delete from t1;
+834
+delete from t1;
+74
+delete from t1;
+655
+delete from t1;
+675
+delete from t1;
+381
+delete from t1;
+243
+delete from t1;
+59
+delete from t1;
+260
+delete from t1;
+496
+delete from t1;
+42
+delete from t1;
+469
+delete from t1;
+146
+delete from t1;
+456
+delete from t1;
+360
+delete from t1;
+132
+delete from t1;
+394
+delete from t1;
+16
+delete from t1;
+615
+delete from t1;
+967
+delete from t1;
+810
+delete from t1;
+65
+delete from t1;
+778
+delete from t1;
+100
+delete from t1;
+740
+delete from t1;
+606
+delete from t1;
+529
+delete from t1;
+56
+delete from t1;
+646
+delete from t1;
+112
+delete from t1;
+414
+delete from t1;
+941
+delete from t1;
+592
+delete from t1;
+893
+delete from t1;
+919
+delete from t1;
+794
+delete from t1;
+841
+delete from t1;
+41
+delete from t1;
+275
+delete from t1;
+911
+delete from t1;
+880
+delete from t1;
+752
+delete from t1;
+316
+delete from t1;
+747
+delete from t1;
+708
+delete from t1;
+597
+delete from t1;
+87
+delete from t1;
+671
+delete from t1;
+765
+delete from t1;
+859
+delete from t1;
+1000
+delete from t1;
+862
+delete from t1;
+257
+delete from t1;
+727
+delete from t1;
+294
+delete from t1;
+313
+delete from t1;
+74
+delete from t1;
+331
+delete from t1;
+659
+delete from t1;
+641
+delete from t1;
+593
+delete from t1;
+86
+delete from t1;
+289
+delete from t1;
+138
+delete from t1;
+532
+delete from t1;
+873
+delete from t1;
+648
+delete from t1;
+636
+delete from t1;
+322
+delete from t1;
+8
+delete from t1;
+220
+delete from t1;
+109
+delete from t1;
+293
+delete from t1;
+332
+delete from t1;
+172
+delete from t1;
+117
+delete from t1;
+217
+delete from t1;
+659
+delete from t1;
+57
+delete from t1;
+503
+delete from t1;
+265
+delete from t1;
+909
+delete from t1;
+615
+delete from t1;
+916
+delete from t1;
+573
+delete from t1;
+390
+delete from t1;
+469
+delete from t1;
+21
+delete from t1;
+647
+delete from t1;
+795
+delete from t1;
+425
+delete from t1;
+444
+delete from t1;
+365
+delete from t1;
+890
+delete from t1;
+415
+delete from t1;
+919
+delete from t1;
+429
+delete from t1;
+28
+delete from t1;
+899
+delete from t1;
+512
+delete from t1;
+587
+delete from t1;
+146
+delete from t1;
+294
+delete from t1;
+762
+delete from t1;
+644
+delete from t1;
+678
+delete from t1;
+458
+delete from t1;
+904
+delete from t1;
+668
+delete from t1;
+922
+delete from t1;
+783
+delete from t1;
+653
+delete from t1;
+776
+delete from t1;
+324
+delete from t1;
+701
+delete from t1;
+664
+delete from t1;
+863
+delete from t1;
+124
+delete from t1;
+528
+delete from t1;
+500
+delete from t1;
+899
+delete from t1;
+908
+delete from t1;
+498
+delete from t1;
+830
+delete from t1;
+973
+delete from t1;
+559
+delete from t1;
+520
+delete from t1;
+378
+delete from t1;
+3
+delete from t1;
+557
+delete from t1;
+373
+delete from t1;
+157
+delete from t1;
+3
+delete from t1;
+89
+delete from t1;
+378
+delete from t1;
+610
+delete from t1;
+622
+delete from t1;
+757
+delete from t1;
+239
+delete from t1;
+144
+delete from t1;
+446
+delete from t1;
+167
+delete from t1;
+228
+delete from t1;
+138
+delete from t1;
+170
+delete from t1;
+33
+delete from t1;
+303
+delete from t1;
+597
+delete from t1;
+979
+delete from t1;
+210
+delete from t1;
+882
+delete from t1;
+260
+delete from t1;
+669
+delete from t1;
+320
+delete from t1;
+666
+delete from t1;
+653
+delete from t1;
+199
+delete from t1;
+161
+delete from t1;
+329
+delete from t1;
+839
+delete from t1;
+483
+delete from t1;
+203
+delete from t1;
+471
+delete from t1;
+173
+delete from t1;
+78
+delete from t1;
+834
+delete from t1;
+678
+delete from t1;
+95
+delete from t1;
+369
+delete from t1;
+267
+delete from t1;
+983
+delete from t1;
+120
+delete from t1;
+771
+delete from t1;
+97
+delete from t1;
+486
+delete from t1;
+555
+delete from t1;
+200
+delete from t1;
+405
+delete from t1;
+658
+delete from t1;
+728
+delete from t1;
+832
+delete from t1;
+707
+delete from t1;
+594
+delete from t1;
+438
+delete from t1;
+164
+delete from t1;
+946
+delete from t1;
+843
+delete from t1;
+628
+delete from t1;
+718
+delete from t1;
+263
+delete from t1;
+457
+delete from t1;
+678
+delete from t1;
+313
+delete from t1;
+454
+delete from t1;
+208
+delete from t1;
+897
+delete from t1;
+772
+delete from t1;
+54
+delete from t1;
+687
+delete from t1;
+409
+delete from t1;
+502
+delete from t1;
+674
+delete from t1;
+616
+delete from t1;
+506
+delete from t1;
+467
+delete from t1;
+191
+delete from t1;
+782
+delete from t1;
+162
+delete from t1;
+252
+delete from t1;
+718
+delete from t1;
+215
+delete from t1;
+284
+delete from t1;
+300
+delete from t1;
+495
+delete from t1;
+667
+delete from t1;
+195
+delete from t1;
+889
+delete from t1;
+351
+delete from t1;
+573
+delete from t1;
+434
+delete from t1;
+615
+delete from t1;
+668
+delete from t1;
+419
+delete from t1;
+570
+delete from t1;
+184
+delete from t1;
+445
+delete from t1;
+576
+delete from t1;
+686
+delete from t1;
+215
+delete from t1;
+49
+delete from t1;
+49
+delete from t1;
+709
+delete from t1;
+25
+delete from t1;
+528
+delete from t1;
+50
+delete from t1;
+353
+delete from t1;
+126
+delete from t1;
+365
+delete from t1;
+526
+delete from t1;
+643
+delete from t1;
+226
+delete from t1;
+233
+delete from t1;
+711
+delete from t1;
+338
+delete from t1;
+908
+delete from t1;
+799
+delete from t1;
+387
+delete from t1;
+552
+delete from t1;
+959
+delete from t1;
+512
+delete from t1;
+757
+delete from t1;
+910
+delete from t1;
+997
+delete from t1;
+942
+delete from t1;
+801
+delete from t1;
+479
+delete from t1;
+365
+delete from t1;
+81
+delete from t1;
+277
+delete from t1;
+757
+delete from t1;
+62
+delete from t1;
+668
+delete from t1;
+809
+delete from t1;
+29
+delete from t1;
+438
+delete from t1;
+174
+delete from t1;
+752
+delete from t1;
+735
+delete from t1;
+1000
+delete from t1;
+772
+delete from t1;
+751
+delete from t1;
+320
+delete from t1;
+109
+delete from t1;
+684
+delete from t1;
+450
+delete from t1;
+806
+delete from t1;
+846
+delete from t1;
+973
+delete from t1;
+1000
+delete from t1;
+795
+delete from t1;
+636
+delete from t1;
+635
+delete from t1;
+9
+delete from t1;
+55
+delete from t1;
+49
+delete from t1;
+449
+delete from t1;
+560
+delete from t1;
+63
+delete from t1;
+903
+delete from t1;
+985
+delete from t1;
+803
+delete from t1;
+615
+delete from t1;
+954
+delete from t1;
+823
+delete from t1;
+931
+delete from t1;
+677
+delete from t1;
+677
+delete from t1;
+462
+delete from t1;
+45
+delete from t1;
+629
+delete from t1;
+47
+delete from t1;
+980
+delete from t1;
+443
+delete from t1;
+554
+delete from t1;
+669
+delete from t1;
+72
+delete from t1;
+802
+delete from t1;
+976
+delete from t1;
+758
+delete from t1;
+455
+delete from t1;
+688
+delete from t1;
+357
+delete from t1;
+154
+delete from t1;
+984
+delete from t1;
+317
+delete from t1;
+941
+delete from t1;
+517
+delete from t1;
+670
+delete from t1;
+322
+delete from t1;
+743
+delete from t1;
+166
+delete from t1;
+454
+delete from t1;
+317
+delete from t1;
+977
+delete from t1;
+336
+delete from t1;
+899
+delete from t1;
+117
+delete from t1;
+85
+delete from t1;
+23
+delete from t1;
+884
+delete from t1;
+777
+delete from t1;
+960
+delete from t1;
+488
+delete from t1;
+72
+delete from t1;
+537
+delete from t1;
+593
+delete from t1;
+457
+delete from t1;
+590
+delete from t1;
+18
+delete from t1;
+242
+delete from t1;
+29
+delete from t1;
+389
+delete from t1;
+752
+delete from t1;
+283
+delete from t1;
+623
+delete from t1;
+861
+delete from t1;
+825
+delete from t1;
+386
+delete from t1;
+904
+delete from t1;
+839
+delete from t1;
+958
+delete from t1;
+947
+delete from t1;
+119
+delete from t1;
+771
+delete from t1;
+981
+delete from t1;
+418
+delete from t1;
+514
+delete from t1;
+344
+delete from t1;
+516
+delete from t1;
+565
+delete from t1;
+896
+delete from t1;
+180
+delete from t1;
+542
+delete from t1;
+899
+delete from t1;
+802
+delete from t1;
+211
+delete from t1;
+187
+delete from t1;
+853
+delete from t1;
+86
+delete from t1;
+980
+delete from t1;
+608
+delete from t1;
+873
+delete from t1;
+262
+delete from t1;
+359
+delete from t1;
+950
+delete from t1;
+235
+delete from t1;
+665
+delete from t1;
+412
+delete from t1;
+447
+delete from t1;
+815
+delete from t1;
+299
+delete from t1;
+764
+delete from t1;
+403
+delete from t1;
+994
+delete from t1;
+99
+delete from t1;
+447
+delete from t1;
+20
+delete from t1;
+937
+delete from t1;
+26
+delete from t1;
+899
+delete from t1;
+504
+delete from t1;
+804
+delete from t1;
+380
+delete from t1;
+712
+delete from t1;
+831
+delete from t1;
+741
+delete from t1;
+1
+delete from t1;
+396
+delete from t1;
+982
+delete from t1;
+618
+delete from t1;
+888
+delete from t1;
+438
+delete from t1;
+412
+delete from t1;
+515
+delete from t1;
+982
+delete from t1;
+891
+delete from t1;
+986
+delete from t1;
+194
+delete from t1;
+113
+delete from t1;
+700
+delete from t1;
+963
+delete from t1;
+155
+delete from t1;
+355
+delete from t1;
+443
+delete from t1;
+334
+delete from t1;
+636
+delete from t1;
+237
+delete from t1;
+605
+delete from t1;
+57
+delete from t1;
+452
+delete from t1;
+279
+delete from t1;
+227
+delete from t1;
+516
+delete from t1;
+520
+delete from t1;
+515
+delete from t1;
+136
+delete from t1;
+21
+delete from t1;
+420
+delete from t1;
+846
+delete from t1;
+520
+delete from t1;
+826
+delete from t1;
+465
+delete from t1;
+137
+delete from t1;
+691
+delete from t1;
+985
+delete from t1;
+778
+delete from t1;
+796
+delete from t1;
+388
+delete from t1;
+147
+delete from t1;
+130
+delete from t1;
+776
+delete from t1;
+776
+delete from t1;
+827
+delete from t1;
+678
+delete from t1;
+216
+delete from t1;
+184
+delete from t1;
+458
+delete from t1;
+326
+delete from t1;
+615
+delete from t1;
+579
+delete from t1;
+85
+delete from t1;
+579
+delete from t1;
+316
+delete from t1;
+261
+delete from t1;
+250
+delete from t1;
+377
+delete from t1;
+184
+delete from t1;
+770
+delete from t1;
+219
+delete from t1;
+677
+delete from t1;
+165
+delete from t1;
+76
+delete from t1;
+891
+delete from t1;
+594
+delete from t1;
+296
+delete from t1;
+205
+delete from t1;
+210
+delete from t1;
+392
+delete from t1;
+796
+delete from t1;
+679
+delete from t1;
+928
+delete from t1;
+3
+delete from t1;
+759
+delete from t1;
+584
+delete from t1;
+491
+delete from t1;
+802
+delete from t1;
+528
+delete from t1;
+673
+delete from t1;
+194
+delete from t1;
+662
+delete from t1;
+145
+delete from t1;
+911
+delete from t1;
+209
+delete from t1;
+373
+delete from t1;
+182
+delete from t1;
+230
+delete from t1;
+152
+delete from t1;
+897
+delete from t1;
+542
+delete from t1;
+214
+delete from t1;
+803
+delete from t1;
+805
+delete from t1;
+465
+delete from t1;
+335
+delete from t1;
+220
+delete from t1;
+515
+delete from t1;
+462
+delete from t1;
+370
+delete from t1;
+221
+delete from t1;
+616
+delete from t1;
+415
+delete from t1;
+851
+delete from t1;
+692
+delete from t1;
+118
+delete from t1;
+151
+delete from t1;
+679
+delete from t1;
+613
+delete from t1;
+51
+delete from t1;
+880
+delete from t1;
+581
+delete from t1;
+744
+delete from t1;
+815
+delete from t1;
+722
+delete from t1;
+778
+delete from t1;
+347
+delete from t1;
+387
+delete from t1;
+6
+delete from t1;
+651
+delete from t1;
+544
+delete from t1;
+330
+delete from t1;
+688
+delete from t1;
+592
+delete from t1;
+587
+delete from t1;
+875
+delete from t1;
+1
+delete from t1;
+241
+delete from t1;
+178
+delete from t1;
+837
+delete from t1;
+859
+delete from t1;
+263
+delete from t1;
+890
+delete from t1;
+232
+delete from t1;
+969
+delete from t1;
+121
+delete from t1;
+3
+delete from t1;
+587
+delete from t1;
+930
+delete from t1;
+498
+delete from t1;
+2
+delete from t1;
+299
+delete from t1;
+17
+delete from t1;
+920
+delete from t1;
+933
+delete from t1;
+898
+delete from t1;
+92
+delete from t1;
+408
+delete from t1;
+276
+delete from t1;
+737
+delete from t1;
+675
+delete from t1;
+140
+delete from t1;
+52
+delete from t1;
+893
+delete from t1;
+106
+delete from t1;
+870
+delete from t1;
+998
+delete from t1;
+293
+delete from t1;
+16
+delete from t1;
+44
+delete from t1;
+932
+delete from t1;
+286
+delete from t1;
+411
+delete from t1;
+690
+delete from t1;
+905
+delete from t1;
+721
+delete from t1;
+284
+delete from t1;
+882
+delete from t1;
+853
+delete from t1;
+922
+delete from t1;
+436
+delete from t1;
+188
+delete from t1;
+285
+delete from t1;
+931
+delete from t1;
+582
+delete from t1;
+513
+delete from t1;
+354
+delete from t1;
+869
+delete from t1;
+869
+delete from t1;
+134
+delete from t1;
+835
+delete from t1;
+979
+delete from t1;
+951
+delete from t1;
+241
+delete from t1;
+697
+delete from t1;
+873
+delete from t1;
+385
+delete from t1;
+291
+delete from t1;
+775
+delete from t1;
+383
+delete from t1;
+14
+delete from t1;
+926
+delete from t1;
+937
+delete from t1;
+408
+delete from t1;
+646
+delete from t1;
+826
+delete from t1;
+116
+delete from t1;
+835
+delete from t1;
+726
+delete from t1;
+346
+delete from t1;
+526
+delete from t1;
+546
+delete from t1;
+479
+delete from t1;
+813
+delete from t1;
+254
+delete from t1;
+811
+delete from t1;
+738
+delete from t1;
+622
+delete from t1;
+684
+delete from t1;
+447
+delete from t1;
+657
+delete from t1;
+276
+delete from t1;
+599
+delete from t1;
+456
+delete from t1;
+28
+delete from t1;
+546
+delete from t1;
+11
+delete from t1;
+877
+delete from t1;
+13
+delete from t1;
+629
+delete from t1;
+813
+delete from t1;
+490
+delete from t1;
+854
+delete from t1;
+368
+delete from t1;
+822
+delete from t1;
+444
+delete from t1;
+139
+delete from t1;
+252
+delete from t1;
+85
+delete from t1;
+558
+delete from t1;
+975
+delete from t1;
+506
+delete from t1;
+72
+delete from t1;
+434
+delete from t1;
+354
+delete from t1;
+61
+delete from t1;
+787
+delete from t1;
+388
+delete from t1;
+311
+delete from t1;
+500
+delete from t1;
+890
+delete from t1;
+806
+delete from t1;
+312
+delete from t1;
+708
+delete from t1;
+910
+delete from t1;
+335
+delete from t1;
+864
+delete from t1;
+515
+delete from t1;
+915
+delete from t1;
+202
+delete from t1;
+726
+delete from t1;
+539
+delete from t1;
+600
+delete from t1;
+663
+delete from t1;
+579
+delete from t1;
+862
+delete from t1;
+613
+delete from t1;
+889
+delete from t1;
+812
+delete from t1;
+854
+delete from t1;
+755
+delete from t1;
+215
+delete from t1;
+252
+delete from t1;
+329
+delete from t1;
+439
+delete from t1;
+907
+delete from t1;
+342
+delete from t1;
+168
+delete from t1;
+187
+delete from t1;
+871
+delete from t1;
+467
+delete from t1;
+808
+delete from t1;
+840
+delete from t1;
+79
+delete from t1;
+654
+delete from t1;
+813
+delete from t1;
+783
+delete from t1;
+859
+delete from t1;
+206
+delete from t1;
+880
+delete from t1;
+883
+delete from t1;
+84
+delete from t1;
+652
+delete from t1;
+687
+delete from t1;
+572
+delete from t1;
+572
+delete from t1;
+396
+delete from t1;
+766
+delete from t1;
+887
+delete from t1;
+604
+delete from t1;
+537
+delete from t1;
+292
+delete from t1;
+597
+delete from t1;
+74
+delete from t1;
+853
+delete from t1;
+544
+delete from t1;
+970
+delete from t1;
+754
+delete from t1;
+822
+delete from t1;
+372
+delete from t1;
+10
+delete from t1;
+522
+delete from t1;
+338
+delete from t1;
+926
+delete from t1;
+950
+delete from t1;
+635
+delete from t1;
+320
+delete from t1;
+720
+delete from t1;
+562
+delete from t1;
+889
+delete from t1;
+458
+delete from t1;
+782
+delete from t1;
+280
+delete from t1;
+578
+delete from t1;
+948
+delete from t1;
+44
+delete from t1;
+834
+delete from t1;
+416
+delete from t1;
+131
+delete from t1;
+762
+delete from t1;
+132
+delete from t1;
+749
+delete from t1;
+280
+delete from t1;
+94
+delete from t1;
+474
+delete from t1;
+680
+delete from t1;
+314
+delete from t1;
+303
+delete from t1;
+653
+delete from t1;
+851
+delete from t1;
+434
+delete from t1;
+500
+delete from t1;
+31
+delete from t1;
+190
+delete from t1;
+81
+delete from t1;
+991
+delete from t1;
+47
+delete from t1;
+883
+delete from t1;
+8
+delete from t1;
+123
+delete from t1;
+318
+delete from t1;
+165
+delete from t1;
+259
+delete from t1;
+544
+delete from t1;
+594
+delete from t1;
+158
+delete from t1;
+887
+delete from t1;
+66
+delete from t1;
+272
+delete from t1;
+159
+delete from t1;
+900
+delete from t1;
+214
+delete from t1;
+180
+delete from t1;
+124
+delete from t1;
+323
+delete from t1;
+653
+delete from t1;
+765
+delete from t1;
+75
+delete from t1;
+847
+delete from t1;
+844
+delete from t1;
+322
+delete from t1;
+387
+delete from t1;
+257
+delete from t1;
+973
+delete from t1;
+458
+delete from t1;
+788
+delete from t1;
+233
+delete from t1;
+876
+delete from t1;
+437
+delete from t1;
+813
+delete from t1;
+221
+delete from t1;
+329
+delete from t1;
+77
+delete from t1;
+15
+delete from t1;
+887
+delete from t1;
+802
+delete from t1;
+639
+delete from t1;
+132
+delete from t1;
+893
+delete from t1;
+555
+delete from t1;
+896
+delete from t1;
+73
+delete from t1;
+615
+delete from t1;
+395
+delete from t1;
+504
+delete from t1;
+105
+delete from t1;
+818
+delete from t1;
+484
+delete from t1;
+768
+delete from t1;
+931
+delete from t1;
+910
+delete from t1;
+545
+delete from t1;
+93
+delete from t1;
+216
+delete from t1;
+223
+delete from t1;
+139
+delete from t1;
+367
+delete from t1;
+163
+delete from t1;
+897
+delete from t1;
+175
+delete from t1;
+440
+delete from t1;
+271
+delete from t1;
+568
+delete from t1;
+499
+delete from t1;
+426
+delete from t1;
+995
+delete from t1;
+629
+delete from t1;
+171
+delete from t1;
+656
+delete from t1;
+210
+delete from t1;
+983
+delete from t1;
+559
+delete from t1;
+561
+delete from t1;
+738
+delete from t1;
+2
+delete from t1;
+540
+delete from t1;
+503
+delete from t1;
+820
+delete from t1;
+752
+delete from t1;
+794
+delete from t1;
+192
+delete from t1;
+890
+delete from t1;
+538
+delete from t1;
+118
+delete from t1;
+251
+delete from t1;
+74
+delete from t1;
+987
+delete from t1;
+661
+delete from t1;
+74
+delete from t1;
+148
+delete from t1;
+765
+delete from t1;
+802
+delete from t1;
+380
+delete from t1;
+949
+delete from t1;
+619
+delete from t1;
+140
+delete from t1;
+1
+delete from t1;
+467
+delete from t1;
+876
+delete from t1;
+79
+delete from t1;
+776
+delete from t1;
+528
+delete from t1;
+269
+delete from t1;
+115
+delete from t1;
+971
+delete from t1;
+845
+delete from t1;
+982
+delete from t1;
+383
+delete from t1;
+247
+delete from t1;
+664
+delete from t1;
+763
+delete from t1;
+150
+delete from t1;
+190
+delete from t1;
+251
+delete from t1;
+85
+delete from t1;
+808
+delete from t1;
+931
+delete from t1;
+496
+delete from t1;
+88
+delete from t1;
+725
+delete from t1;
+642
+delete from t1;
+547
+delete from t1;
+657
+delete from t1;
+999
+delete from t1;
+251
+delete from t1;
+525
+delete from t1;
+665
+delete from t1;
+112
+delete from t1;
+803
+exit;

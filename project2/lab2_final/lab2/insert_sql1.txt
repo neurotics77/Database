@@ -1,0 +1,27 @@
+create database test;
+use test;
+create table t1;
+id int
+name char(100)
+;
+insert table t1;
+1 abcf;
+insert table t1;
+2 abcf;
+insert table t1;
+3 abcf;
+insert table t1;
+4 abcf;
+insert table t1;
+5 abcf;
+insert table t1;
+6 abcf;
+insert table t1;
+7 abcf;
+insert table t1;
+8 abcf;
+insert table t1;
+9 abcf;
+insert table t1;
+10 abcf;
+insert table t1;

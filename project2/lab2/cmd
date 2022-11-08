@@ -1,0 +1,19 @@
+create database test;
+use test;
+create table t1;
+id int
+name char(10)
+;
+insert table t1;
+1 abc;
+insert table t1;
+2 abcd;
+insert table t1;
+3 abcf;
+update table t1;
+2
+name zs
+select from t1;
+1
+delete from t1;
+1

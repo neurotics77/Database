@@ -1,0 +1,7 @@
+delete from t1;
+1
+delete from t1;
+5
+delete from t1;
+7
+exit;
